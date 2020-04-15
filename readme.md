@@ -1,14 +1,7 @@
-Student name: Hien Le
-Student Number: 101044264
-
-
-# COMP4107 - Neural Network
-
-## Final project 
-## The effects of noise in the dataset on the performance of convolutional neural networks
+## The effects of noise on the performance of convolutional neural networks
 
 ### Project files:
-  - dataset folder: includes `.png` images of five different breeds of flower
+  - dataset folder: retrieved from (Kaggle's flowers dataset)[https://www.kaggle.com/alxmamaev/flowers-recognition]
   - data_preprocessing.py: loads, displays, and saves the data
   - CNN.py: contains the CNN model using Keras
   - main.py: runs the analysis for this project
